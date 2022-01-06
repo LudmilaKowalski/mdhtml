@@ -8,5 +8,5 @@ We had to use markdown into a html project. I had to introduce my self into a sm
 
 You can see here the result : 
 
-![Image](./images/site1.png)
-![Image](./images/site2.png)
+![Image](./images/site.png)
+![Image](./images/site3.png)
